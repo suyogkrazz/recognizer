@@ -13,3 +13,6 @@ sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libp
 
 # Install Package
 `npm install`
+
+# Basic Example 
+`cd example1 && node index.js`
