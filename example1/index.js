@@ -16,7 +16,6 @@ cv.readImage("./friends.jpg", function(err, im) {
         face.height / 2
       );
     }
-
     im.save("./friends-faces.jpg");
     console.log("Image saved as friends-faces.png");
   });
