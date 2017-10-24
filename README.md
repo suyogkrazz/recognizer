@@ -14,5 +14,8 @@ sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libp
 # Install Package
 `npm install`
 
-# Basic Example 
+* Basic Example 1 - find face in a static picture
 `cd example1 && node index.js`
+
+* Basic Example 2 - find face in live camera feed
+`cd example2 && node camera.js`
