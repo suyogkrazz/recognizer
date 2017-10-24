@@ -1,0 +1,22 @@
+{
+  "name": "recognizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suyogkrazz/recognizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suyogkrazz/recognizer/issues"
+  },
+  "homepage": "https://github.com/suyogkrazz/recognizer#readme",
+  "dependencies": {
+    "opencv": "github:peterbraden/node-opencv"
+  }
+}
